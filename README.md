@@ -19,7 +19,7 @@ ATOM Matrixに搭載されたジャイロセンサーにより手振りを検出
 * [ATOM TailBAT](https://www.switch-science.com/catalog/6348/)
 ### 筆者作成タイプ
 * [ATOM Matrix](https://www.switch-science.com/catalog/6260/)
-* 百均モバイルバッテリー
+* [百均モバイルバッテリー(販売終了商品)](https://mitok.info/?p=87640)
 * [3Dプリンタ出力部品](./stl)
 * 色付きクリアファイル(文字背景パーツ)
 
