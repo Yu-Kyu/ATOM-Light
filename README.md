@@ -14,13 +14,16 @@ ATOM Matrixに搭載されたジャイロセンサーにより手振りを検出
 * [Arduinoプログラム](./src/main/main.ino)
 
 ## ハードウェア
+下記二つのタイプからお選びいただけます．
+
 ### 最小構成タイプ
 * [ATOM Matrix](https://www.switch-science.com/catalog/6260/)
 * [ATOM TailBAT](https://www.switch-science.com/catalog/6348/)
 ### 筆者作成タイプ
+フレームや文字パーツ等は3DCADソフト(Fusion360)を用いて設計し，3Dプリンタにより製作しました．
+
 * [ATOM Matrix](https://www.switch-science.com/catalog/6260/)
 * [百均モバイルバッテリー(販売終了商品)](https://mitok.info/?p=87640)
 * [3Dプリンタ出力部品](./stl)
 * 色付きクリアファイル(文字背景パーツ)
 
-フレームや文字パーツ等は3DCADソフト(Fusion360)を用いて設計し，3Dプリンタにより製作しました．
